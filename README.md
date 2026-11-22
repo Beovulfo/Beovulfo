@@ -27,4 +27,4 @@ Senior Staff Engineer in Data Science at TomTom: a Data Science and AI leader, a
 - [ContentCreator](https://github.com/Beovulfo/ContentCreator): an agentic workflow for creating content
 - [LoMa_phD](https://github.com/Beovulfo/LoMa_phD): CFD code from my PhD, variable-density turbulent flows with and without combustion
 
-**Elsewhere**: [lessdatamorestories.com](https://lessdatamorestories.com) · [LinkedIn](https://www.linkedin.com/in/toni-almagro)
+**Elsewhere**: [lessdatamorestories.com](https://lessdatamorestories.com) · [LinkedIn](https://www.linkedin.com/in/toni-almagro) · Work GitHub: [@tonialmagro-tomtom](https://github.com/tonialmagro-tomtom)
