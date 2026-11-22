@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Toni Almagro. Data science, agentic AI and fluid mechanics. Less data, more stories. A shear layer rolls up into growing billows." width="100%">
+
 ### Hi, I'm Toni 
 
 A Data Science and AI leader, and a hands-on AI engineer. PhD in fluid mechanics, now 12+ years shipping ML and AI systems to production across tech, media, aviation and transportation. Since May 2025 I build software exclusively with coding agents.
