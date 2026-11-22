@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Toni Almagro. Data science, agentic AI and fluid mechanics. Less data, more stories. A shear layer rolls up into growing billows." width="100%">
+<img src="assets/banner.svg" alt="Toni Almagro. Data science and agentic AI. Less data, more stories." width="100%">
 
 ### Hi, I'm Toni 
 
