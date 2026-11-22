@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Toni Almagro. Data science and agentic AI. Less data, more stories." width="100%">
+<img src="assets/banner.png" alt="Turning data and AI into decisions. Flow lines roll up into growing billows." width="100%">
 
 ### Hi, I'm Toni 
 
